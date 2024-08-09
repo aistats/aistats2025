@@ -113,34 +113,34 @@ conference:
     - family: Agrawal
       given: Shipra
       url: "https://www.columbia.edu/~sa3305/"
-      institute: Columbia University
+      institute: Columbia University, New York, USA
     - family: Khan
       given: Emtiyaz
       # Give their personal web page.
       url: "https://emtiyaz.github.io/"
-      institute: RIKEN
+      institute: RIKEN, Tokyo, Japan
   # If there's a local chair, or a general chair, you can add them here.
   - type: General Chair
     people:
     - family: Li
       given: Yingzhen
       url: "http://yingzhenli.net/"
-      institute: Imperial College London
+      institute: Imperial College London, London, UK
     - family: Mandt
       given: Stephan
       url: "https://www.stephanmandt.com/"
-      institute: University of California, Irvine
+      institute: University of California, Irvine, USA
   # You might want Workflow Chair(s) to assist with your submission system and the review process.
   - type: Workflow Chair
     people:
     - family: Anders
       given: Christopher J.
-      url:
-      institute: RIKEN
+      url: "https://cjanders.de"
+      institute: RIKEN, Tokyo, Japan
     - family: Ou
       given: Tingting
-      url:
-      institute: Columbia University
+      url: "https://ieor.columbia.edu/content/tingting-ou"
+      institute: Columbia University, New York, USA
   # Your Publication Chair handles processing of proceedings.
   # - type: Publication Chair
   #   people:
@@ -168,14 +168,14 @@ conference:
     - family: Fortuin
       given: Vincent
       url: "https://fortuin.github.io/"
-      institute: Helmholtz AI, Munich
+      institute: Helmholtz AI, Munich, Germany
   - type: Local Chair
     people:
     - family: Maundet
       given: Krikamol
       url: "http://www.krikamol.org"
-      institute: Mahidol University
+      institute: CISPA Helmholtz Center for Information Security, Saarbrücken, Germany
     - family: Krityakierne
       given: Tipaluck
       url: "https://sites.google.com/a/cornell.edu/tipaluck/home"
-      institute: Helmholtz Center for Information Security
+      institute: Mahidol University, Salaya, Thailand
