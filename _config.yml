@@ -84,26 +84,31 @@ conference:
       date: TBA
     - name: Abstract submission deadline
       type: submission
-      time: TBA
+      text: 3 October 2024 (Anywhere on Earth)
+      date: 3 October 2024
     - name: Paper submission deadline
       type: submission
-      time: TBA
+      text: 10 October 2024 (Anywhere on Earth)
+      date: 10 October 2024
     - name: Appendix submission deadline
       type: submission
-      time: TBA
+      text: 17 October 2024 (Anywhere on Earth)
+      date: 17 October 2024
     - name: Reviews released
-      date: TBA
+      date: 19 November 2024
     - name: Author rebuttals due
       type: submission
-      time: TBA
+      text: 5 December 2024 (Anywhere on Earth)
+      date: 5 December 2024
     - name: Paper decision notifications
       type: decision
-      date: TBA
+      date: 21 January 2025
     - name: Early Registration deadline
-      date: TBA
+      text: 27 March 2025 (01:00 AM UTC)
+      date: 27 March 2025
   # List program chairs here.
   chairs:
-  - type: Program Chairs
+  - type: Program Chair
     people:
     - family: Agrawal
       given: Shipra
@@ -115,17 +120,21 @@ conference:
       url: "https://emtiyaz.github.io/"
       institute: RIKEN
   # If there's a local chair, or a general chair, you can add them here.
-  # - type: General Chair
-  #   people:
-  #   - family:
-  #     given:
-  #     url:
-  #     institute:
+  - type: General Chair
+    people:
+    - family: Li
+      given: Yingzhen
+      url: "http://yingzhenli.net/"
+      institute: Imperial College London
+    - family: Mandt
+      given: Stephan
+      url: "https://www.stephanmandt.com/"
+      institute: University of California, Irvine
   # You might want Workflow Chair(s) to assist with your submission system and the review process.
-  - type: Workflow Chairs
+  - type: Workflow Chair
     people:
     - family: Anders
-      given: Christopher
+      given: Christopher J.
       url:
       institute: RIKEN
     - family: Ou
@@ -154,15 +163,19 @@ conference:
   #     url:
   #     institute:
   # Sponsorship chairs handle bringing in money from sponsors.
-  # - type: Sponsorship Chair
-  #   people:
-  #   - family:
-  #     given:
-  #     url:
-  #     institute:
-  # - type: Local Chair
-  #   people:
-  #   - family:
-  #     given:
-  #     url:
-  #     institute:
+  - type: Sponsorship Chair
+    people:
+    - family: Fortuin
+      given: Vincent
+      url: "https://fortuin.github.io/"
+      institute: Helmholtz AI, Munich
+  - type: Local Chair
+    people:
+    - family: Maundet
+      given: Krikamol
+      url: "http://www.krikamol.org"
+      institute: Mahidol University
+    - family: Krityakierne
+      given: Tipaluck
+      url: "https://sites.google.com/a/cornell.edu/tipaluck/home"
+      institute: Helmholtz Center for Information Security
