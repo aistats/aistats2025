@@ -177,3 +177,9 @@ conference:
       given: Tipaluck
       url: "https://sites.google.com/a/cornell.edu/tipaluck/home"
       institute: Mahidol University, Salaya, Thailand
+  - type: Publication Chair
+    people:
+    - family: Burroni
+      given: Javier
+      url: https://jburroni.github.io/
+      institute: University of Massachusetts, Amherst
