@@ -32,7 +32,7 @@ Inappropriate or unprofessional behavior that interferes with another participan
 
 ## Reporting
 
-If you have concerns related to your participation or interaction at an AISTATS activity, observe someone else’s difficulties, or have any other concerns you wish to share, you can make a report via email (TBA).
+If you have concerns related to your participation or interaction at an AISTATS activity, observe someone else’s difficulties, or have any other concerns you wish to share, you can make a report{%if site.author.email%} via [{{ site.author.email }}](mailto:{{ site.author.email }}){%endif%}.
 
 There is no deadline by which to make a report.
 
@@ -59,9 +59,11 @@ If action is taken, an appeals process will be made available.
 
 Reports of violations will be handled at the discretion of the AISTATS organising committee, who will investigate reports and bring the issue to resolution. Reports made during the activity will be responded to within 24 hours; reports made at other times will be responded to in less than five weeks. All reports will be handled as confidentially as possible and information will be disclosed only as it is necessary to complete the investigation and bring to resolution. There may be situations (such as those involving Title IX issues in the United States and venue- or employer-specific policies) where the member of the AISTATS organising committee informed of the violation will be under an obligation to file a report with another individual or organization outside of AISTATS.
 
+{%if site.author.email %}
 ## Ongoing Review
 
-The AISTATS organising committee welcomes feedback from the community on this CoC policy and procedures; please contact us by email (TBA).
+The AISTATS organising committee welcomes feedback from the community on this CoC policy and procedures; please contact us via [{{ site.author.email }}](mailto:{{ site.author.email }}).
+{%endif%}
 
 ## Acknowledgements
 

@@ -86,10 +86,15 @@ Formatting information (including LaTeX style files) is available in the
 [AISTATS2025PaperPack]({{ site.url }}/aistats2025/AISTATS2025PaperPack.zip)
 ([mirror](https://drive.google.com/file/d/1kjHySEhhKvlp9RhKnof1hJPdR7fhpcFt/view?usp=sharing)).
 We do not support submission in preparation systems other than LaTeX. Please do
-not modify the layout given by the style file. If you have questions about the
-style file or its usage, please contact the publications chair or the program
-chairs via <aistats2024conference@gmail.com>.
+not modify the layout given by the style file.
 -->
+
+
+{%if site.author.email %}
+If you have questions about the style file or its usage, please contact the
+publications chair or the program chairs via [{{ site.author.email }}](mailto:{{ site.author.email }}).
+{%endif%}
+
 
 ## Reviewer Nomination
 
