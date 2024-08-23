@@ -89,6 +89,14 @@ We do not support submission in preparation systems other than LaTeX. Please do
 not modify the layout given by the style file.
 -->
 
+Unlike previous years, this year's submissions are accepted at OpenReview
+(instead of CMT). The link will be available one month before the submission
+deadline (we are still working on setting it up).
+
+Formatting information (including LaTeX style files) is available in the
+[AISTATS2025PaperPack]({{ site.url }}/aistats2025/AISTATS2025PaperPack.zip). We
+do not support submission in preparation systems other than LaTeX. Please do
+not modify the layout given by the style file.
 
 {%if site.author.email %}
 If you have questions about the style file or its usage, please contact the
