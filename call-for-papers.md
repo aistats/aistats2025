@@ -79,19 +79,9 @@ under no obligation to examine the supplementary material. If you have only one
 supplementary pdf file, please upload it as is; otherwise gather everything to
 the single zip file.
 
-<!--
-Submissions are accepted at <https://cmt3.research.microsoft.com/AISTATS2024/>.
-
-Formatting information (including LaTeX style files) is available in the
-[AISTATS2025PaperPack]({{ site.url }}/aistats2025/AISTATS2025PaperPack.zip)
-([mirror](https://drive.google.com/file/d/1kjHySEhhKvlp9RhKnof1hJPdR7fhpcFt/view?usp=sharing)).
-We do not support submission in preparation systems other than LaTeX. Please do
-not modify the layout given by the style file.
--->
-
 Unlike previous years, this year's submissions are accepted at OpenReview
-(instead of CMT). The link will be available one month before the submission
-deadline (we are still working on setting it up).
+(instead of CMT) at
+<https://openreview.net/group?id=aistats.org/AISTATS/2025/Conference>.
 
 Formatting information (including LaTeX style files) is available in the
 [AISTATS2025PaperPack]({{ site.url }}/aistats2025/AISTATS2025PaperPack.zip). We
