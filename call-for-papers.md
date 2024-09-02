@@ -72,12 +72,21 @@ reviewers in the bidding process.
 Submissions are limited to 8 pages excluding references using the LaTeX style
 file we provide below (the page limit will be 9 for camera-ready submissions).
 The number of pages containing only citations and the reproducibility checklist
-is not limited. You can also submit a single file of additional supplementary
+is not limited. ~~You can also submit a single file of additional supplementary
 material which may be either a pdf file (such as proof details) or a zip file
-for other formats/more files (such as code or videos). Note that reviewers are
+for other formats/more files (such as code or videos).~~ Note that reviewers are
 under no obligation to examine the supplementary material. If you have only one
 supplementary pdf file, please upload it as is; otherwise gather everything to
 the single zip file.
+
+*Update September 2, 2024*: Additional supplementary material may be appended to the
+manuscript after the main content, and/or submitted separately in a single pdf file
+(such as proof details) or a zip file for other formats/more files (such as
+code or videos). It is the authors' responsibility that
+any additional material appended to the manuscript does not conflict in content
+with additional material uploaded separately (e.g., the separately uploaded
+additional material is not an updated version of the one appended to the
+manuscript).
 
 Unlike previous years, this year's submissions are accepted at OpenReview
 (instead of CMT) at
