@@ -154,12 +154,12 @@ conference:
   #     url:
   #     institute:
   # D&I Chairs look after initiatives to ensure an inclusive conference
-  # - type: D&I Chair
-  #   people:
-  #   - family:
-  #     given:
-  #     url:
-  #     institute:
+  - type: D&I Chair
+    people:
+    - family: Khetarpal
+      given: Khimya
+      url: "https://kkhetarpal.github.io/"
+      institute: Google DeepMind
   # Sponsorship chairs handle bringing in money from sponsors.
   - type: Sponsorship Chair
     people:

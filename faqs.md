@@ -9,7 +9,7 @@ weight: 5
 
 
 1. **I missed the abstract submission deadline. Can I still submit a full paper?**
-No. You must submit the abstract in time for the deadline on Friday October 6th 2023 (AoE).
+No. You must submit the abstract in time for the deadline on Thursday October 3rd 2024 (AoE).
 
 2. **While submitting a paper, do we need to nominate one of the authors as a reviewer?**
 We ask authors to also serve as reviewers in order to ensure that all submissions can receive a sufficient number of reviews whilst ensuring an acceptable load for each reviewer. Due to the recent increase in submissions, we expect we will need a significantly larger number of reviewers than in previous years. Your nominations are important in order to maintain the quality of the conference. There will be a section in the paper submission form to nominate any of the authors to be reviewers. Nominated authors will receive an invitation to be a reviewer, which can be accepted or declined.
@@ -21,7 +21,7 @@ Yes, submission to arXiv is allowed. However, keep anonymity in the AISTATS subm
 We strongly discourage advertising the preprint on social media or in the press while under submission to AISTATS. Under no circumstances should your work be explicitly identified as AISTATS submission at any time during the review period, i.e., from the time you submit the abstract to the communication of the accept/reject decisions.
 
 5. **Can the author list be changed?**
-The author list is **final** at the abstract submission deadline (Thursday, October 3rd, 2024 AoE). After the abstract deadline, any changes to the author list are **impossible**. Only once the paper is accepted, you may change the order of authors, but no new authors may be added.
+The author list is ***final at the abstract submission deadline*** (Thursday, October 3rd, 2024 AoE). After the abstract deadline, any changes to the author list are **impossible**. This is to avoid conflicts of interest with reviewers during the matching, which begins right after the abstract submission deadline.  Only once the paper is accepted, you may change the order of authors, but no new authors may be added.
 
 6. **Can I withdraw my submission?**
 Yes. You can withdraw your submission at any point in the reviewing process. For statistical purposes, we will count a submission as “rejected” if it is withdrawn after reviews have been made available to authors.

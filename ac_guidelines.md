@@ -44,9 +44,9 @@ Dates may be subject to change. All deadlines are AoE timezone.
 
 Below is a list of tasks (and the detailed explanations) that an AC is expected to conduct.
 
-1. Registrations on CMT
+1. Registrations on OpenReview
 
-   -  Make sure your profile on CMT is up-to-date. Adding your conflict of interests as well as selecting your expertise topics. Import papers to your CMT account.
+   -  Make sure your profile on OpenReview is up-to-date. Adding your conflict of interests as well as selecting your expertise topics. Import papers to your OpenReview profile.
    - Read and agree to abide by the [AISTATS code of conduct](http://aistats.org/aistats2025/code-of-conduct.html).
 
 2. Paper bidding
@@ -112,7 +112,7 @@ You must keep everything relating to the review process confidential. Do not use
 
 1. How do I contact the Senior Area Chair (SAC) and/or the Program Chairs?
 
-    Openreview provides contacting functions to do so once you’ve been assigned to an SAC. Also, you can contact the Program Chairs{%if site.author.email %} via [{{ site.author.email }}](mailto:{{ site.author.email }}){%endif%}.
+    OpenReview provides contacting functions to do so once you’ve been assigned to an SAC. Also, you can contact the Program Chairs{%if site.author.email %} via [{{ site.author.email }}](mailto:{{ site.author.email }}){%endif%}.
 2. What if the paper does not have the reproducibility checklist?
 
     This does not count for desk-reject, although you should check whether the authors have submitted the checklist during author feedback. Remind the authors of accepted submissions to include the checklist in camera ready.
