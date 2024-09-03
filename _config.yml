@@ -76,7 +76,7 @@ conference:
     # Whether to show the submission site.
     show: false
     # The URL of the submission site.
-    url:
+    url: "https://openreview.net/group?id=aistats.org/AISTATS/2025/Conference"
     # The name of the submission site (e.g. Microsoft CMT Website)
     name:
   deadlines:
