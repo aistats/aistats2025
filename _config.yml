@@ -81,9 +81,9 @@ conference:
     name:
   deadlines:
     # Fill in the key dates as below.
-    - name: Submission server open
-      type: submission
-      date: TBA
+    # - name: Submission server open
+    #   type: submission
+    #   date: TBA
     - name: Abstract submission deadline
       type: submission
       date: 3 October 2024
@@ -182,4 +182,4 @@ conference:
     - family: Burroni
       given: Javier
       url: https://jburroni.github.io/
-      institute: University of Massachusetts, Amherst
+      institute: University of Massachusetts, Amherst, USA
