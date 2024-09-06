@@ -93,7 +93,7 @@ Unlike previous years, this year's submissions are accepted at OpenReview
 <https://openreview.net/group?id=aistats.org/AISTATS/2025/Conference>.
 
 Formatting information (including LaTeX style files) is available in the
-[AISTATS2025PaperPack]({{ site.url }}/aistats2025/AISTATS2025PaperPack.zip). We
+[AISTATS2025PaperPack]({{ "/AISTATS2025PaperPack.zip" | absolute_url }}). We
 do not support submission in preparation systems other than LaTeX. Please do
 not modify the layout given by the style file.
 
