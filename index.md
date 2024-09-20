@@ -4,7 +4,7 @@ layout: default
 weight: 1
 ---
 
-The 28th International Conference on Artificial Intelligence and Statistics (AISTATS) will be held on May 3nd - May 5th, 2025 at [Splash Beach Resort in Mai Khao, Thailand](https://www.splashbeachresort.com/), as an in-person event.
+The 28th International Conference on Artificial Intelligence and Statistics (AISTATS) will be held on May 3rd - May 5th, 2025 at [Splash Beach Resort in Mai Khao, Thailand](https://www.splashbeachresort.com/), as an in-person event.
 
 # Submissions and Instructions
 

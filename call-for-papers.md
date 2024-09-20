@@ -88,6 +88,10 @@ with additional material uploaded separately (e.g., the separately uploaded
 additional material is not an updated version of the one appended to the
 manuscript).
 
+*Update September 20, 2024*: Additional supplementary material appended to the
+manuscript should be placed after all the content of the manuscript, including
+citations and the reproducibility checklist.
+
 Unlike previous years, this year's submissions are accepted at OpenReview
 (instead of CMT) at
 <https://openreview.net/group?id=aistats.org/AISTATS/2025/Conference>.
