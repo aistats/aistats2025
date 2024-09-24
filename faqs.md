@@ -5,7 +5,7 @@ weight: 5
 ---
 
 
-## Frequently Asked Questions related to AISTATS 2024 submissions
+## Frequently Asked Questions related to AISTATS 2025 submissions
 
 
 1. **I missed the abstract submission deadline. Can I still submit a full paper?**
