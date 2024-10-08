@@ -16,6 +16,26 @@ This page provides guidelines for reviewers for AISTATS 2025. The guideline is b
 3. During the rebuttal period, discuss with the other reviewers and the AC to help arrive at a good decision.
 4. Recommend papers for oral talks, awards, etc..
 
+## Important Dates
+
+Dates may be subject to change. All deadlines are AoE timezone.
+
+  - Abstract deadline: **Thursday, 3 October, 2024**
+  - Start bidding: **Tuesday, 8 October, 2024**
+  - Paper submission deadline: **Thursday, 10 October, 2024**
+  - Bidding deadline: **Tuesday, 14 October, 2024**
+  - Appendix submission deadline: **Thursday, 17 October, 2024**
+  - Paper assignment completes: **Tuesday, 22 October, 2024**
+  - Review period: **Tuesday, 22 October - Tuesday, 19 November, 2024**
+  - Checking and soliciting emergency reviews: **Tuesday, 19 November - Wednesday, 27 November, 2024**
+  - Reviews released: **Tuesday, 27 November, 2024**
+  - Author rebuttals due: **Thursday, 5 December 2024**
+  - Discussion period: **Friday, 6 December - Thursday, 19 December, 2024**
+  - AC meta reviews due: **Friday, 20 December, 2024**
+  - SAC decisions: **Tuesday, 7 January, 2025**
+  - Paper decision notifications: **Tuesday, 21 January, 2025**
+  
+
 ## How to Review?
 
 The purpose of the review process is twofold. First, to identify papers which offer significant contributions to the fields of artificial intelligence and statistics, for attendees and readers. Second, to provide constructive feedback to authors that they can use to improve their work. Your role as a reviewer is vital to both goals.
