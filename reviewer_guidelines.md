@@ -23,7 +23,7 @@ Dates may be subject to change. All deadlines are AoE timezone.
   - Abstract deadline: **Thursday, 3 October, 2024**
   - Start bidding: **Tuesday, 8 October, 2024**
   - Paper submission deadline: **Thursday, 10 October, 2024**
-  - Bidding deadline: **Tuesday, 14 October, 2024**
+  - Bidding deadline: **Thursday, 17 October, 2024**
   - Appendix submission deadline: **Thursday, 17 October, 2024**
   - Review period: **Tuesday, 22 October - Tuesday, 19 November, 2024**
   - Discussion period: **Friday, 6 December - Thursday, 19 December, 2024**
