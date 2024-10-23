@@ -64,6 +64,8 @@ The review form will ask you for the following:
     - Major errors or trivial results (e.g., an incorrect theorem, or known results)
     - Not applicable
 
+    Please assess the soundness of the paper by selecting one of the options above.
+
 5. **Soundness Justification:**
 
     Justification for your provided judgment of soundness. If not applicable, put in “N/A”. If your choice is “minor errors” or “major errors”, please specify the details of your concerns.
@@ -83,6 +85,8 @@ The review form will ask you for the following:
     - Not significant (e.g., overall similar to baselines, missing many baselines)
     - Not applicable
 
+    Please assess the significance of the paper by selecting one of the options above.
+    
 7. **Significance Justification:**
 
     Justification of your provided judgment of significance. If not applicable, put in “N/A”. If your choice is “somewhat significant” or “not significant”, please specify the details of your concerns.
@@ -98,6 +102,8 @@ The review form will ask you for the following:
     - New results
     - Incremental compared to existing results
     - Known results, or trivial extension of known results
+
+    Please assess the novelty of the paper by selecting one of the options above.
 
 9. **Novelty Justification:**
 
