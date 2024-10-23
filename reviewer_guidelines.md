@@ -64,6 +64,8 @@ The review form will ask you for the following:
     - Major errors or trivial results (e.g., an incorrect theorem, or known results)
     - Not applicable
 
+    <br/><br/>
+
     Please assess the soundness of the paper by selecting one of the options above.
 
 5. **Soundness Justification:**
@@ -73,10 +75,12 @@ The review form will ask you for the following:
     These two questions mainly evaluate the paper's soundness in terms of theoretical contributions if applicable. Incorrect claims or methodology are the primary reasons for rejection. Your comments should be detailed, specific, and polite. Please avoid vague, subjective complaints. Thoroughly motivate your criticism so that authors will understand your point of view and potentially respond to you. Remember to provide appropriate references if relevant.
 
     Example comments:
-    - "Theorem 3.1 contains major errors: the proved convergence rate in line XXX is missing a factor of T^1/3 since [reason for this claim]. Because of this, the correct convergence rate of the proposed algorithm is no better than the baseline method YYY (citation 1)."
-    - "Lemma 4.2 contains minor errors: the time complexity figure in line XXX should be O(YYY) instead of O(ZZZ) because [reason for this claim], although this does not affect the final complexity figure too much when combining all algorithmic components together."
+    
+    (1) "Theorem 3.1 contains major errors: the proved convergence rate in line XXX is missing a factor of T^1/3 since [reason for this claim]. Because of this, the correct convergence rate of the proposed algorithm is no better than the baseline method YYY (citation 1)."
+    
+    (2) "Lemma 4.2 contains minor errors: the time complexity figure in line XXX should be O(YYY) instead of O(ZZZ) because [reason for this claim], although this does not affect the final complexity figure too much when combining all algorithmic components together."
 
-    Note that unless the assumptions are very unrealistic and much stronger than those of similar theoretical results in the literature (please justify in detail), otherwise we recommend commenting on the potential issues about assumptions in Q13 additional comments.
+    Note that unless the assumptions are very unrealistic and much stronger than those of similar theoretical results in the literature (please justify in detail), otherwise we recommend commenting on the potential issues about assumptions in the additional comments.
 
 6. **Significance:**
 
@@ -94,7 +98,8 @@ The review form will ask you for the following:
     These two questions mainly evaluate the paper's significance in terms of empirical results if applicable. Your comments should be detailed, specific, and polite. Please avoid vague, subjective complaints. Thoroughly motivate your criticism so that authors will understand your point of view and potentially respond to you. Remember to provide appropriate references if relevant.
 
     Example comments:
-    - "The proposed method outperforms the selected baselines significantly. However, method XXX has not been added to comparison which hinders the significance of the results. Method XXX should be an appropriate baseline to compare with because [describe the reason, e.g., method XXX differs from the proposed method only in aspect YYY]."
+
+    "The proposed method outperforms the selected baselines significantly. However, method XXX has not been added to comparison which hinders the significance of the results. Method XXX should be an appropriate baseline to compare with because [describe the reason, e.g., method XXX differs from the proposed method only in aspect YYY]."
 
 8. **Novelty:**
 
@@ -102,6 +107,8 @@ The review form will ask you for the following:
     - New results
     - Incremental compared to existing results
     - Known results, or trivial extension of known results
+
+    <br/><br/> 
 
     Please assess the novelty of the paper by selecting one of the options above.
 
@@ -112,7 +119,8 @@ The review form will ask you for the following:
     Another important axis is the significance and the novelty of the contributions relative to what has been done already in the literature, and here you may want to cite these relevant prior works. Try to find positive aspects, irrespective of your overall (positive or negative) assessment. One measure of the significance of a contribution is (your belief about) the level to which researchers or practitioners will make use of or be influenced by the proposed ideas. Solid, technical papers that explore new territory or point out new directions for research are preferable to papers that advance the state of the art, but only incrementally. Do *not* use criteria such as "the paper's research area is important" or "the paper is well-written" since these aspects are too generic and commonly occur in poor reviews.
 
     Example comments:
-    - "The proposed method combines training method XXX (citation 1) and sampling method YYY (citation 2) in order to achieve better performance on metric ZZZ. The combination is done by running the sampling step in XXX using sampler YYY, while in the literature the choices of the sampler are usually e.g., AAA (citation 3) and BBB (citation 4). Although combinatorial, this paper is the first one to show that sampler YYY can work in the context of model CCC (citation 5) trained with method XXX."
+    
+    "The proposed method combines training method XXX (citation 1) and sampling method YYY (citation 2) in order to achieve better performance on metric ZZZ. The combination is done by running the sampling step in XXX using sampler YYY, while in the literature the choices of the sampler are usually e.g., AAA (citation 3) and BBB (citation 4). Although combinatorial, this paper is the first one to show that sampler YYY can work in the context of model CCC (citation 5) trained with method XXX."
 
 10. **Non-conventional Contributions:**
 
