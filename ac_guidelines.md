@@ -125,4 +125,4 @@ You must keep everything relating to the review process confidential. Do not use
     In the review period, the main part of the submission should be 8 pages long. After that, only the references are allowed. If that is not the case, please mark it as a format violation.
 4. What else counts as format violations?
 
-    Anything that breaks anonymity, violates dual submission policy, changes the format (e.g., margins or vertical spaces, or submitting the main paper and appendix in the same pdf). If in doubt, please mark it as a violation, which will be looked after by the Program Chairs.
+    Anything that breaks anonymity, violates dual submission policy, changes the format (e.g., margins or vertical spaces). If in doubt, please mark it as a violation, which will be looked after by the Program Chairs.
