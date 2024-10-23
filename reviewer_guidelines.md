@@ -64,8 +64,6 @@ The review form will ask you for the following:
     - Major errors or trivial results (e.g., an incorrect theorem, or known results)
     - Not applicable
 
-    <br/><br/>
-
     Please assess the soundness of the paper by selecting one of the options above.
 
 5. **Soundness Justification:**
@@ -107,8 +105,6 @@ The review form will ask you for the following:
     - New results
     - Incremental compared to existing results
     - Known results, or trivial extension of known results
-
-    <br/><br/> 
 
     Please assess the novelty of the paper by selecting one of the options above.
 
