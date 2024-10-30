@@ -161,6 +161,12 @@ conference:
       given: Khimya
       url: "https://kkhetarpal.github.io/"
       institute: Google DeepMind
+    - type: D&I Chair
+    people:
+    - family: Ong
+      given: Cheng Soon
+      url: "https://www.ong-home.my/"
+      institute: Data61, CSIRO
   # Sponsorship chairs handle bringing in money from sponsors.
   - type: Sponsorship Chair
     people:
