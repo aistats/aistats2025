@@ -161,8 +161,6 @@ conference:
       given: Khimya
       url: "https://kkhetarpal.github.io/"
       institute: Google DeepMind
-    - type: D&I Chair
-    people:
     - family: Ong
       given: Cheng Soon
       url: "https://www.ong-home.my/"
