@@ -22,23 +22,7 @@ This page provides guidelines for Area Chairs (ACs) for AISTATS 2025. The guidel
 
 ## Important Dates
 
-Dates may be subject to change. All deadlines are AoE timezone.
-
-  - Abstract deadline: **Thursday, 3 October, 2024**
-  - Start bidding: **Tuesday, 8 October, 2024**
-  - Paper submission deadline: **Thursday, 10 October, 2024**
-  - Bidding deadline: **Thursday, 17 October, 2024**
-  - Appendix submission deadline: **Thursday, 17 October, 2024**
-  - Paper assignment completes: **Tuesday, 22 October, 2024**
-  - Review period: **Tuesday, 22 October - Tuesday, 19 November, 2024**
-  - Checking and soliciting emergency reviews: **Tuesday, 19 November - Wednesday, 27 November, 2024**
-  - Reviews released: **Tuesday, 27 November, 2024**
-  - Author rebuttals due: **Thursday, 5 December 2024**
-  - Discussion period: **Friday, 6 December - Thursday, 19 December, 2024**
-  - AC meta reviews due: **Friday, 20 December, 2024**
-  - SAC decisions: **Tuesday, 7 January, 2025**
-  - Paper decision notifications: **Tuesday, 21 January, 2025**
-
+{% include listdates.html %}
 
 ## Main Tasks
 
@@ -67,13 +51,18 @@ Below is a list of tasks (and the detailed explanations) that an AC is expected 
     - Ask reviewers to rewrite and resubmit their review if appropriate.
     - Please ensure reviewers provide their comments with evidence. E.g., if a reviewer selects “combinatorial approach” in their answer to the question regarding novelty, ensure that in the next question that reviewer has provided the corresponding references to justify this choice.
 
-5. Organize reviewer discussions after author feedback
+5. Author-Reviewer discussion
 
-    - Ensure reviewers have read the author feedback document. Ask them to update their review with e.g., a new paragraph starting “Post author feedback comments”.
+    - Ensure that reviewers engage in discussions with the authors during this period.
+    - It is highly recommended that they at least acknowledge that they have read the comments and indicate any change in their scores (or lack thereof).
+    - Encourage them to discuss with other reviewers.
+
+6. Reviewer-AC discussion
+
     - Initiate and lead discussions between reviewers. At this point you should read both reviews and author feedback, to understand the pros and cons of the submission, as well as the major disagreements between reviewers and authors. List these points in your discussion post. If applicable, explicitly ask reviewers with e.g., very high/low scores to explain their opinions.
     - Read confidential messages from reviewers and authors. If applicable, contact the corresponding reviewers to address authors’ concerns (without revealing the authors’ confidential comments).
 
-6. Decision making and meta-review
+7. Decision making and meta-review
 
     - Be on time in writing your meta-review and making decisions – we have a tight schedule regarding final decisions!
     - You should write the meta reviews based on your reading of the paper, the reviews, the author feedback, and the reviewer discussions. Keep in mind that the meta-review needs to provide a convincing justification about your decision (especially in rejection cases).

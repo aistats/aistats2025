@@ -18,17 +18,7 @@ This page provides guidelines for reviewers for AISTATS 2025. The guideline is b
 
 ## Important Dates
 
-Dates may be subject to change. All deadlines are AoE timezone.
-
-  - Abstract deadline: **Thursday, 3 October, 2024**
-  - Start bidding: **Tuesday, 8 October, 2024**
-  - Paper submission deadline: **Thursday, 10 October, 2024**
-  - Bidding deadline: **Thursday, 17 October, 2024**
-  - Appendix submission deadline: **Thursday, 17 October, 2024**
-  - Review period: **Tuesday, 22 October - Tuesday, 19 November, 2024**
-  - Discussion period: **Friday, 6 December - Thursday, 19 December, 2024**
-  - Paper decision notifications: **Tuesday, 21 January, 2025**
-  
+{% include listdates.html %}
 
 ## How to Review?
 
@@ -231,6 +221,10 @@ submission, please notify the Program Chairs right away at
 
 If you notice unethical or suspect behavior, please notify your Area Chair right
 away.
+
+## Author Response
+
+Authors will be given the opportunity to respond to their reviews before decisions are made. This is to enable them to address misunderstandings, point out parts of their submissions that were overlooked, or disagree with the reviewers’ assessments. In previous years, some authors felt that their responses were ignored. As a reviewer, it is your responsibility to read and (if appropriate) respond to each author’s response. It is not fair to ignore any author response, even for submissions that you think should be rejected. Although it is possible that an author’s response will not change your assessment of a submission, you must convey to the authors that you have carefully considered their comments. As you read each author’s response, keep an open mind. Have you overlooked something? Please update each review to indicate that you have read the author’s response and whether you agree or disagree with it. You should be more specific than “I have read the author’s response and my opinion remains the same.” If that is the case, you should explain why it remains the same, what the author’s response failed to address, etc.
 
 ## LLM Policy
 

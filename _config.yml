@@ -88,20 +88,60 @@ conference:
     - name: Abstract submission deadline
       type: submission
       date: 3 October 2024
+      important: true
+    - name: Bidding Phase
+      type: review
+      date: 8 October 2024
+      enddate: 17 October 2024
     - name: Paper submission deadline
       type: submission
       date: 10 October 2024
+      important: true
     - name: Appendix submission deadline
       type: submission
       date: 17 October 2024
+      important: true
+    - name: Paper assignment complete
+      type: meta
+      date: 22 October 2024
+    - name: Review period
+      type: review
+      date: 22 October 2024
+      enddate: 19 November 2024
+    - name: Checking and soliciting emergency reviews
+      type: meta
+      date: 19 October 2024
+      enddate: 27 November 2024
     - name: Reviews released
+      type: submission
       date: 27 November 2024
+    - name: Author-Reviewer discussion period
+      type: review
+      date: 27 November 2024
+      enddate: 4 December 2024
+      important: true
     - name: Author rebuttals due
       type: submission
       date: 5 December 2024
+      important: true
+    - name: Reviewer-AC discussion period
+      type: review
+      date: 5 December 2024
+      enddate: 6 December 2024
+    - name: AC meta reviews due
+      type: meta
+      date: 20 December 2024
+    - name: SAC decisions
+      type: meta
+      date: 7 January 2025
     - name: Paper decision notifications
-      type: decision
       date: 21 January 2025
+      important: true
+    - name: Conference dates
+      type: submission
+      date: 3 May 2025
+      enddate: 5 May 2025
+      important: true
     # - name: Early Registration deadline
     #   text: 27 March 2025 (01:00 AM UTC)
     #   date: 27 March 2025
