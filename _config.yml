@@ -127,7 +127,7 @@ conference:
     - name: Reviewer-AC discussion period
       type: review
       date: 5 December 2024
-      enddate: 6 December 2024
+      enddate: 20 December 2024
     - name: AC meta reviews due
       type: meta
       date: 20 December 2024
