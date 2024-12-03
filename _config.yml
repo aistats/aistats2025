@@ -118,12 +118,14 @@ conference:
     - name: Author-Reviewer discussion period
       type: review
       date: 27 November 2024
-      enddate: 4 December 2024
+      enddate: 9 December 2024
       important: true
+      endold: 4 December 2024
     - name: Author rebuttals due
       type: submission
-      date: 5 December 2024
+      date: 10 December 2024
       important: true
+      old: 5 December 2024
     - name: Reviewer-AC discussion period
       type: review
       date: 5 December 2024
