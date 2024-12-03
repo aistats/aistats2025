@@ -33,16 +33,34 @@ Dates may be subject to change. All dates are Anywhere on Earth (AoE), end of da
             {% if site.TZ %} ({{ site.TZ }}){% endif %}
           </time>
         {% elsif deadline.date %}
+          {% if deadline.old %}
+            <s>
+              <time datetime="{{ deadline.old }}">
+                {{ deadline.old | date: datefmt }}
+              </time>
+            </s>
+            &nbsp;extended to
+          {% endif %}
           <time datetime="{{ deadline.date }}">
             {{ deadline.date | date: datefmt }}
           </time>
           {% if deadline.enddate %}
             -
+            {% if deadline.endold %}
+              <s>
+                <time datetime="{{ deadline.endold }}">
+                  {{ deadline.endold | date: datefmt }}
+                </time>
+              </s>
+              &nbsp;extended to
+            {% endif %}
             <time datetime="{{ deadline.enddate }}">
               {{ deadline.enddate | date: datefmt }}
             </time>
           {% endif %}
         {% endif %}
+
+        {% if deadline.suffix %}{{ deadline.suffix }}{% endif %}
 
         {% if deadline.important %}</strong>{% endif %}
         {% if endunix < nowunix %}</s>{% endif %}
