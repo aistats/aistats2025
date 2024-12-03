@@ -8,7 +8,7 @@
 Dates may be subject to change. All dates are Anywhere on Earth (AoE), end of day.
 
 <ul>
-	{% for deadline in site.conference.deadlines %}
+  {% for deadline in site.conference.deadlines %}
     {% unless deadline.hide %}
     {% if deadline.type == nil or types == nil or types contains deadline.type %}
 
@@ -35,11 +35,13 @@ Dates may be subject to change. All dates are Anywhere on Earth (AoE), end of da
         {% elsif deadline.date %}
           <time datetime="{{ deadline.date }}">
             {{ deadline.date | date: datefmt }}
+            {% if deadline.extended %} (extended){% endif %}
           </time>
           {% if deadline.enddate %}
             -
             <time datetime="{{ deadline.enddate }}">
               {{ deadline.enddate | date: datefmt }}
+              {% if deadline.extended %} (extended){% endif %}
             </time>
           {% endif %}
         {% endif %}
@@ -49,5 +51,5 @@ Dates may be subject to change. All dates are Anywhere on Earth (AoE), end of da
       </li>
     {% endif %}
     {% endunless %}
-	{% endfor %}
+  {% endfor %}
 </ul>
