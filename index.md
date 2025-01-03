@@ -6,6 +6,10 @@ weight: 1
 
 The 28th International Conference on Artificial Intelligence and Statistics (AISTATS) will be held on May 3rd - May 5th, 2025 at [Splash Beach Resort in Mai Khao, Thailand](https://virtual.aistats.org/Conferences/2025/Hotels), as an in-person event.
 
+# Conference Registration
+
+Registration is now open on the virtual conference site: https://virtual.aistats.org/Register
+
 # Submissions and Instructions
 
 The OpenReview site is now open for submissions:
