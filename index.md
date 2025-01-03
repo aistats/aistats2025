@@ -8,7 +8,7 @@ The 28th International Conference on Artificial Intelligence and Statistics (AIS
 
 # Conference Registration
 
-Registration is now open on the virtual conference site: https://virtual.aistats.org/Register
+Registration is now open on the [virtual conference site.](https://virtual.aistats.org/Register)
 
 # Submissions and Instructions
 
