@@ -10,6 +10,10 @@ The 28th International Conference on Artificial Intelligence and Statistics (AIS
 
 Registration is now open on the [virtual conference site.](https://virtual.aistats.org/Register)
 
+# Sponsorship Information
+
+Check out [this link](https://virtual.aistats.org/sponsorportal) for sponsorship information of AISTATS 2025. 
+
 # Submissions and Instructions
 
 The OpenReview site is now open for submissions:
