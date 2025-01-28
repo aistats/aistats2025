@@ -10,6 +10,8 @@ The 28th International Conference on Artificial Intelligence and Statistics (AIS
 
 Registration is now open on the [virtual conference site.](https://virtual.aistats.org/Register)
 
+**The deadline for early registration is: Mar 23, 2025 06:00 PM PDT.**
+
 # Sponsorship Information
 
 Check out [this link](https://virtual.aistats.org/sponsorportal) for sponsorship information of AISTATS 2025. 
