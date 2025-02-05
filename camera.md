@@ -119,7 +119,8 @@ C) **Code/Dasets (optional)**. To include **code/datasets** you can provide the 
 ## Submission to OpenReview
 
 Camera-ready submissions must be submitted via OpenReview.
-In the page corresponding to your accepted paper(s), a new `Edit` button allows you to edit the **Camera ready revision**.The OpenReview form will ask you for the title, the abstract, the list of
+In the page corresponding to your accepted paper(s), a new `Edit` button allows you to edit the **Camera ready revision**.
+The OpenReview form will ask you for the title, the abstract, the list of
 authors (only changes to the author order are allowed at this point, as per the
 submission agreement), the PDF with your submission and the signed copyright form.
 
