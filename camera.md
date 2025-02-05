@@ -31,7 +31,7 @@ You have to upload one PDF file (mandatory), one PDF filled and signed
 copyright form (mandatory), and one url link to a GitHub repository with code/datasets (optional).
 
 
-1) **PDF file (mandatory).** The PDF file must contain the paper, including the
+A) **PDF file (mandatory).** The PDF file must contain the paper, including the
 references and acknowledgements, and optionally the textual supplementary
 material. **Differently from the initial submission**, now the textual
 supplementary material ("the appendix") **must** follow the paper content (after
@@ -78,17 +78,16 @@ instructions:
     <https://usabilla.com/blog/how-to-design-for-color-blindness>.
 1. Further formatting instructions can be found in the `sample_paper.pdf` file
     available at
-    <http://aistats.org/aistats2024/AISTATS2024CameraReadyPaperPack.zip>.
+    <https://aistats.org/aistats2025/AISTATS2025PaperPack.zip>.
 
 
-2) **Copyright form (mandatory)**. Please download the PMLR copyright form,
+B) **Copyright form (mandatory)**. Please download the PMLR copyright form,
 available at <http://proceedings.mlr.press/pmlr-license-agreement.pdf>, fill it
-in, sign it, rename it as **642-Permission.pdf** (with 642 replaced by your
-submission ID on OpenReview), and submit it with the rest of the documents. It is
+in, sign it, and submit it with the rest of the documents. It is
 sufficient for one author to sign the agreement on behalf of all authors.
 
 
-3) **Code/Dasets (optional)**. To include **code/datasets** you can provide the public 
+C) **Code/Dasets (optional)**. To include **code/datasets** you can provide the public 
   URL where the code can be found in
   the appropriate field of CMT submission form.  **If you promised to release
   code/datasets** (either in the original submission PDF or during the rebuttal),
@@ -97,7 +96,7 @@ sufficient for one author to sign the agreement on behalf of all authors.
   camera-ready deadline, your submission may be excluded from the conference
   proceedings.
 * If you wish to include any **videos**, provide the
-  public URL where the video is available in the appropriate field of the CMT
+  public URL where the video is available in the appropriate field of the OpenReview
   submission form. **NOTE**: This does not refer to the recorded presentation
   explaining your paper, which will be submitted/recorded separately, but to any other videos containing, e.g., experimental results.
 
@@ -114,22 +113,15 @@ sufficient for one author to sign the agreement on behalf of all authors.
 * Please ensure that your camera-ready submission contains author information
   (names and affiliations), instead of "Anonymous Author N" as was required for
   the original submission, and that the submitted list of authors and the
-  ordering among them **matches the information on CMT**.
+  ordering among them **matches the information on OpenReview**.
 
 
 ## Submission to OpenReview
 
-Camera-ready submissions must be submitted via CMT:
-<https://cmt3.research.microsoft.com/AISTATS2024>. If you are also a reviewer or
-Area Chair, make sure that your role is set to “Author”. To change your role to
-“Author,” click next to “Select Your Role” in the top right of the page.
-
-In the CMT Author Console there is now a new link to "Create camera-ready
-submission" for each accepted paper. Use this link to submit camera-ready
-papers. The CMT form will ask you for the title, the abstract, the list of
+Camera-ready submissions must be submitted via OpenReview.
+In the page corresponding to your accepted paper(s), a new `Edit` button allows you to edit the **Camera ready revision**.The OpenReview form will ask you for the title, the abstract, the list of
 authors (only changes to the author order are allowed at this point, as per the
-submission agreement), and the following files (where 642 is to be replaced by
-your submission ID): **642.pdf** and **642-Permission.pdf**.
+submission agreement), the PDF with your submission and the signed copyright form.
 
 Please ensure that the submitted **title and abstract match the ones in the
 camera-ready version**, and do not include any LaTeX commands or other
@@ -142,12 +134,12 @@ style checker**. To obtain the code, please follow these steps:
 
 1. Go to
    <https://research.engineering.wustl.edu/machinelearning/pub/AISTATS/> 
-2. Provide the paper ID (from CMT), your name (just one author), your e-mail
+2. Provide the paper ID (from OpenReview), your name (just one author), your e-mail
    and the submission PDF file. If the paper passes the style checks, you will
 obtain a submission code. (Please ignore the warnings of the style checker.)
 **The submission code is only valid for this particular PDF file**. If you
 further edit the PDF, you will need to obtain another submission code.  
-3. When submitting your paper on CMT,  you need to provide the style checker
+3. When submitting your paper on OpenReview,  you need to provide the style checker
    submission code.
 4. The style checker has a **10MB file size limit**. **PDFs above 10MB should be reduced**, for example by reducing the pixel density and/or compression rate of included figures in the main text and supplement.
 
