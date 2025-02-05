@@ -12,7 +12,7 @@ Registration is now open on the [virtual conference site.](https://virtual.aista
 
 **The deadline for early registration is: Mar 23, 2025.**
 
-# Camera-ready Deadline
+# Camera-ready Version Instructions
 
 The camera-ready instructions will be posted soon. Please stay tuned!
 
