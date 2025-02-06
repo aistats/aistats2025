@@ -27,7 +27,7 @@ The deadline for the camera-ready submission is **Monday, March 10th, 2025, Anyw
 ## Submission instructions
 
 
-You have to upload one PDF file (mandatory), one PDF filled and signed
+You have to upload one manuscript PDF file (mandatory), one PDF filled and signed
 copyright form (mandatory), and one url link to a GitHub repository with code/datasets (optional).
 
 
@@ -39,7 +39,7 @@ Acknowledgements and References) in the **same PDF file**. You will also have to
 obtain a submission code from the paper style checker by uploading this PDF
 file to 
 [https://research.engineering.wustl.edu/machinelearning/pub/AISTATS/](https://research.engineering.wustl.edu/machinelearning/pub/AISTATS/). The style
-checker has a **10MB file size limit**. **PDFs above 10MB should be reduced**, for example by reducing the pixel density and/or compression rate of included figures in the main text and supplement (The supplement should be included with the main paper in a **single PDF file** when submitting to CMT.)
+checker has a **10MB file size limit**. **PDFs above 10MB should be reduced**, for example by reducing the pixel density and/or compression rate of included figures in the main text and supplement (The supplement should be included with the main paper in a **single PDF file** when submitting.)
 
 To prepare your camera-ready PDF paper, please check the following formatting
 instructions:
@@ -89,7 +89,7 @@ sufficient for one author to sign the agreement on behalf of all authors.
 
 C) **Code/Dasets (optional)**. To include **code/datasets** you can provide the public 
   URL where the code can be found in
-  the appropriate field of CMT submission form.  **If you promised to release
+  the appropriate field of the submission form.  **If you promised to release
   code/datasets** (either in the original submission PDF or during the rebuttal),
   **the code/dataset must be released**. In this case, the AISTATS Chairs will
   check the availability of the code/dataset and, if it isn’t available by the
@@ -128,7 +128,7 @@ Please ensure that the submitted **title and abstract match the ones in the
 camera-ready version**, and do not include any LaTeX commands or other
 non-human-readable markup.
 
-The final version will appear in the [PMLR proceedings](https://proceedings.mlr.press/), published by JMLR W&CP. The CMT will ask you to agree to have your work published by JMLR according to the agreement outlined [here](http://proceedings.mlr.press/pmlr-license-agreement.pdf).
+The final version will appear in the [PMLR proceedings](https://proceedings.mlr.press/), published by JMLR W&CP. You will be asked to agree to have your work published by JMLR according to the agreement outlined [here](http://proceedings.mlr.press/pmlr-license-agreement.pdf).
 
 You will also be asked to provide **a submission code obtained by an automated
 style checker**. To obtain the code, please follow these steps: 
