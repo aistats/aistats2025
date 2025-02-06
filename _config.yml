@@ -139,6 +139,9 @@ conference:
     - name: Paper decision notifications
       date: 21 January 2025
       important: true
+    - name: Camera-Ready revision due
+      date: 10 March 2025
+      important: true
     - name: Conference dates
       type: submission
       date: 3 May 2025
