@@ -10,13 +10,13 @@ The 28th International Conference on Artificial Intelligence and Statistics (AIS
 
 Registration is now open on the [virtual conference site.](https://virtual.aistats.org/Register)
 
-**The deadline for early registration is: Mar 23, 2025.**
+**The deadline for early registration is: March 23, 2025, 6PM PST.**
 
-# Camera-ready Version Instructions
+# Camera-ready Instructions
 
-The camera-ready instructions will be posted soon. Please stay tuned!
+The camera-ready instructions are available [here](https://aistats.org/aistats2025/camera.html). 
 
-**The deadline for submitting the camera-ready version is: Mar 8, 2025.**
+**The deadline for submitting the camera-ready version is: March 10, 2025, 11:59PM Anywhere on Earth.**
 
 # Sponsorship Information
 
