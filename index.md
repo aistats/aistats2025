@@ -22,6 +22,12 @@ The camera-ready instructions are available [here](https://aistats.org/aistats20
 
 Check out [this link](https://virtual.aistats.org/sponsorportal) for sponsorship information of AISTATS 2025. 
 
+# List of Accepted Submissions
+
+A list of all accepted submissions (oral and poster) can be found on the OpenReview site:
+
+[{{ site.conference.submission.url }}]({{ site.conference.submission.url }})
+
 # Submissions and Instructions
 
 The OpenReview site is now open for submissions:
