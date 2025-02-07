@@ -142,6 +142,9 @@ conference:
     - name: Camera-Ready revision due
       date: 10 March 2025
       important: true
+    - name: Journal-to-Conference Track Request due
+      date: 15 March 2025
+      important: true
     - name: Conference dates
       type: submission
       date: 3 May 2025
@@ -233,3 +236,13 @@ conference:
       given: Javier
       url: https://jburroni.github.io/
       institute: University of Massachusetts, Amherst, USA
+  - type: Journal-to-Conference Chair
+    people:
+    - family: Alquier
+      given: Pierre
+      url: https://pierrealquier.github.io/
+      institute: ESSEC Business School
+    - family: Daudel
+      given: Kamélia
+      url: https://kdaudel.github.io/
+      institute: ESSEC Business School

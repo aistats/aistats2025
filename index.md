@@ -12,15 +12,22 @@ Registration is now open on the [virtual conference site.](https://virtual.aista
 
 **The deadline for early registration is: March 23, 2025, 6PM PST.**
 
+# Conference-to-Journal Track
+
+We are excited to announce the launch of a pilot trial for the
+Journal-to-Conference track at AISTATS 2025. Application deadline is **March 15,
+2025**. See [here]({{ "journal-track.html" | relative_url }}) for details.
+
 # Camera-ready Instructions
 
-The camera-ready instructions are available [here](https://aistats.org/aistats2025/camera.html). 
+The camera-ready instructions are available [here](https://aistats.org/aistats2025/camera.html).
 
 **The deadline for submitting the camera-ready version is: March 10, 2025, 11:59PM Anywhere on Earth.**
 
 # Sponsorship Information
 
-Check out [this link](https://virtual.aistats.org/sponsorportal) for sponsorship information of AISTATS 2025. 
+Check out [this link](https://virtual.aistats.org/sponsorportal) for sponsorship information of AISTATS 2025.
+
 
 # List of Accepted Submissions
 
