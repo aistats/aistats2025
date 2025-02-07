@@ -123,6 +123,8 @@ In the page corresponding to your accepted paper(s), a new `Edit` button allows 
 The OpenReview form will ask you for the title, the abstract, the list of
 authors (only changes to the author order are allowed at this point, as per the
 submission agreement), the PDF with your submission and the signed copyright form.
+No new authors can be added because this changes the conflict and invalidates the review process.
+The policy is strict and we will not answer any such requests.
 
 Please ensure that the submitted **title and abstract match the ones in the
 camera-ready version**, and do not include any LaTeX commands or other
