@@ -12,7 +12,7 @@ Registration is now open on the [virtual conference site.](https://virtual.aista
 
 **The deadline for early registration is: March 23, 2025, 6PM PST.**
 
-# Conference-to-Journal Track
+# Journal-to-Conference Track
 
 We are excited to announce the launch of a pilot trial for the
 Journal-to-Conference track at AISTATS 2025. Application deadline is **March 15,
