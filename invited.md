@@ -11,9 +11,9 @@ weight: 5
 **Talk recordings are available <a href="https://www.youtube.com/@AISTATSConference/featured">here</a>.**
 -->
 
-<h2 id="aapo-hyvaerinen"><a href="https://www.cs.helsinki.fi/u/ahyvarin/">Aap Hyvärinen (University of Helsinki)</a></h2>
+<h2 id="aapo-hyvaerinen"><a href="https://www.cs.helsinki.fi/u/ahyvarin/">Aapo Hyvärinen (University of Helsinki)</a></h2>
 <!--
-<img alt="Aap Hyvärinen (University of Helsinki)" align="left" width="150" src="assets/images/aap_hyvaerinen.jpeg">
+<img alt="Aapo Hyvärinen (University of Helsinki)" align="left" width="150" src="assets/images/aap_hyvaerinen.jpeg">
 <b>Biography</b>:
 -->
 
