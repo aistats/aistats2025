@@ -33,7 +33,7 @@ All times are GMT+7. You can check the current GMT+7 time [here](https://time.is
   <td>10:30–11:30</td>
   <td>
     <details>
-      <summary>Oral Session 1 | Deep learning and Learning theory</summary>
+      <summary>Oral Session 1 | Deep Learning and Learning Theory</summary>
       <ul>
         <li>Symmetry-Based Structured Matrices for Efficient Approximately Equivariant Networks </li>
         <li>A Random Matrix Theory Perspective on the Spectrum of Learned Features and Asymptotic Generalization Capabilities</li>
@@ -57,7 +57,7 @@ All times are GMT+7. You can check the current GMT+7 time [here](https://time.is
   <td>14:00–15:00</td>
   <td>
     <details>
-      <summary>Oral Session 2 | Distribution learning and Causality </summary>
+      <summary>Oral Session 2 | Distribution Learning and Causality </summary>
       <ul>
         <li>Importance-weighted Positive-unlabeled Learning for Distribution Shift Adaptation</li>
         <li>Additive Model Boosting: New Insights and Path(ologie)s</li>
@@ -149,7 +149,6 @@ All times are GMT+7. You can check the current GMT+7 time [here](https://time.is
   <td>
     <details>
       <summary>Oral Session 5 | Probabilistic Inference and Optimzation</summary>
-      <em>Session Chair: [Name]</em>
       <ul>
         <li>posteriordb: Testing, Benchmarking and Developing Bayesian Inference Algorithms</li>
         <li>Entropic Matching for Expectation Propagation of Markov Jump Processes</li>
