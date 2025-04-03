@@ -10,6 +10,8 @@ weight: 4
 All posters must meet the following specifications:
 
 **Portrait orientation**: vertical
+
+
 **Maximum dimensions**: 60 inches × 36 inches (152.4 cm × 91.4 cm)
 
 
