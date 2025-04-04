@@ -10,7 +10,13 @@ The 28th International Conference on Artificial Intelligence and Statistics (AIS
 
 Registration is now open on the [virtual conference site.](https://virtual.aistats.org/Register)
 
-**The deadline for early registration is: March 23, 2025, 6PM PST.**
+# Important Travel Information
+
+Starting from midnight on May 1, 2025, all non-Thai nationals entering the Kingdom of Thailand must complete the TDAC online.
+
+Please register and submit the TDAC online within three days before your arrival in Thailand (including the arrival day).
+
+For details, please refer to [this news page](https://visasnews.com/en/thailand-unveils-its-digital-arrival-card-mandatory-from-may-1-2025/).
 
 # Journal-to-Conference Track
 
