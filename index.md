@@ -10,13 +10,13 @@ The 28th International Conference on Artificial Intelligence and Statistics (AIS
 
 Registration is now open on the [virtual conference site.](https://virtual.aistats.org/Register)
 
-# Important Travel Information
+# Important Travel Update: Thailand Digital Arrival Card (TDAC)
 
-Starting from midnight on May 1, 2025, all non-Thai nationals entering the Kingdom of Thailand must complete the TDAC online.
+Effective May 1, 2025, all non-Thai nationals entering Thailand must complete the Thailand Digital Arrival Card (TDAC) online.
 
-Please register and submit the TDAC online within three days before your arrival in Thailand (including the arrival day).
+Please register and submit the TDAC online **within 3 days before your arrival in Thailand** (including the arrival day).
 
-For details, please refer to [this news page](https://visasnews.com/en/thailand-unveils-its-digital-arrival-card-mandatory-from-may-1-2025/).
+For detailed information, please refer to [this news page](https://visasnews.com/en/thailand-unveils-its-digital-arrival-card-mandatory-from-may-1-2025/).
 
 # Journal-to-Conference Track
 
