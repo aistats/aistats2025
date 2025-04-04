@@ -133,10 +133,6 @@ All times are GMT+7. You can check the current GMT+7 time [here](https://time.is
   <td>15:00–18:00</td>
   <td><b>Poster Session 2</b></td>
 </tr>
-<tr>
-  <td>18:00 onward</td>
-  <td>Socials 1</td>
-</tr>
 </table>
 
 
@@ -205,9 +201,5 @@ All times are GMT+7. You can check the current GMT+7 time [here](https://time.is
 <tr>
   <td>15:00–18:00</td>
   <td><b>Poster Session 3</b></td>
-</tr>
-<tr>
-  <td>18:00 onward</td>
-  <td>Socials 2</td>
 </tr>
 </table>
