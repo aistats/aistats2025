@@ -140,7 +140,7 @@ All times are GMT+7. You can check the current GMT+7 time [here](https://time.is
 </table>
 
 
-## Schedule for Day 2: Monday, May 5
+## Schedule for Day 3: Monday, May 5
 
 <h3>Day 3: May 5 (Monday) </h3>
 <table>
