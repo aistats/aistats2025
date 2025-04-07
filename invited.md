@@ -25,11 +25,22 @@ suffering" (2022/24).
 
 <br>
 
-<h2 id="chris-holmes"><a href="https://www.stats.ox.ac.uk/people/chris-holmes">Chris Holmes (University of Oxford)</a></h2>
-<!--
-<img alt="Chris Holmes (University of Oxford)" align="left" width="150" src="assets/images/chris_holmes.jpg">
+<h2 id="chris-holmes"><a href="https://www.stats.ox.ac.uk/people/chris-holmes">Chris Holmes (University of Oxford; Ellison Institute of Technology)</a></h2>
+<img alt="Chris Holmes (University of Oxford; Ellison Institute of Technology)" align="left" width="150" src="assets/images/chris_holmes.jpg">
 <b>Biography</b>:
--->
+Chris Holmes is Statutory Professor of Biostatistics at the University of
+Oxford, and Director of AI at the Ellison Institute of Technology. He gained
+his PhD from Imperial College London, following an early career in industry
+focused on scientific computing. Chris was the inaugural Programme Director for
+Health and Medical Sciences at The Alan Turing Institute, serving in that role
+until October 2023. He held a long-standing Programme Leader’s award in
+Statistical Genomics from the UK Medical Research Council (MRC) for 18 years
+and was named one of WIRED UK’s “Innovators of the Year in AI” in 2016. He is a
+founding editorial board member of the New England Journal of Medicine AI, and
+a founding Fellow of the European Laboratory for Learning and Intelligent
+Systems (ELLIS), where he co-leads the programme on Robust Machine Learning.
+Chris also serves on the International Scientific Advisory Board of UK Biobank
+and on the Data Committee of the Novo Nordisk Foundation.
 
 <br>
 
