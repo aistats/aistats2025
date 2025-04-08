@@ -27,4 +27,4 @@ During the conference, we highly recommend these two activities:
 - **Price**: Free  
 
 
-**Organization**: Social activities are self-organized by participants. If you'd like to coordinate an activity and need our help in advertising it, please complete this form.
+**Organization**: Social activities are self-organized by participants. If you'd like to coordinate an activity and need our help in advertising it, please complete this [form](https://docs.google.com/forms/d/e/1FAIpQLScTb0eFe76IFZfu5itLAlywknkUQi-QByt9ZaLv2yZGYlzhAA/viewform).
