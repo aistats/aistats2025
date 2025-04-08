@@ -1,7 +1,7 @@
 ---
 title: Program Schedule
 layout: default
-weight: 7
+weight: 2
 ---
 
 
