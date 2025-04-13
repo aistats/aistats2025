@@ -154,9 +154,8 @@ helping the AISTATS Chairs to set up and host the paper style checker.
 
 
 
-## Instructions for Posters and Recorded Presentations
+## Instructions for Posters Presentations
 
-Instructions will be updated shortly.
-
+Please check [this link](https://aistats.org/aistats2025/poster.html) for poster instructions. 
 
 
