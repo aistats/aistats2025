@@ -39,7 +39,6 @@ All times are GMT+7. You can check the current GMT+7 time [here](https://time.is
         <li>A Random Matrix Theory Perspective on the Spectrum of Learned Features and Asymptotic Generalization Capabilities</li>
         <li>What Ails Generative Structure-based Drug Design: Expressivity is Too Little or Too Much?</li>
         <li>Learning Graph Node Embeddings by Smooth Pair Sampling</li>
-        <li>Pick-to-Learn and Self-Certified Gaussian Process Approximations</li>
         <li>Loss Gradient Gaussian Width based Generalization and Optimization Guarantees</li>
       </ol>
     </details>
@@ -159,7 +158,6 @@ All times are GMT+7. You can check the current GMT+7 time [here](https://time.is
         <li>Variation Due to Regularization Tractably Recovers Bayesian Deep Learning Uncertainty</li>
         <li>Restructuring Tractable Probabilistic Circuits</li>
         <li>Information Transfer Across Clinical Tasks via Adaptive Parameter Optimisation</li>
-        <li>Variational Inference in Location-Scale Families: Exact Recovery of the Mean and Correlation Matrix</li>
       </ol>
     </details>
   </td>
