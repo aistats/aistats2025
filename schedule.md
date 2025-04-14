@@ -23,7 +23,7 @@ All times are GMT+7. You can check the current GMT+7 time [here](https://time.is
 </tr>
 <tr>
   <td>09:00–10:00</td>
-  <td><b>Keynote Talk 1</b></td>
+  <td><b>Keynote Talk 1 by <a href="https://www.stats.ox.ac.uk/people/chris-holmes">Chris Holmes</a></b></td>
 </tr>
 <tr>
   <td>10:00–10:30</td>
@@ -84,7 +84,7 @@ All times are GMT+7. You can check the current GMT+7 time [here](https://time.is
 <table>
 <tr>
   <td>09:00–10:00</td>
-  <td><b>Keynote Talk 2</b></td>
+  <td><b>Keynote Talk 2 by <a href="https://www.cs.helsinki.fi/u/ahyvarin/">Aapo Hyvärinen</a> </b></td> 
 </tr>
 <tr>
   <td>10:00–10:30</td>
@@ -141,7 +141,7 @@ All times are GMT+7. You can check the current GMT+7 time [here](https://time.is
 <table>
 <tr>
   <td>09:00–10:00</td>
-  <td><b>Keynote Talk 3</b></td>
+  <td><b>Keynote Talk 3 by <a href="https://people.cs.umass.edu/~akshay/">Akshay Krishnamurthy</a></b></td> 
 </tr>
 <tr>
   <td>10:00–10:30</td>
