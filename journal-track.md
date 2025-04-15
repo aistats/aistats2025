@@ -7,6 +7,20 @@ hide: false
 
 # Journal-to-Conference Track
 
+## Accepted Journal-to-Conference papers
+
+- [Solving Estimating Equations With Copulas](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2177545)
+- [Model-Based Causal Feature Selection for General Response Types](https://doi.org/10.1080/01621459.2024.2395588)
+- [Decomposing Global Feature Effects Based on Feature Interactions](https://www.jmlr.org/papers/v25/23-0699.html)
+- [Radial Neighbors for Provably Accurate Scalable Approximations of Gaussian Processes](https://doi.org/10.1093/biomet/asae029)
+- [Estimation of copulas via Maximum Mean Discrepancy](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.2024836)
+- [A kernel Stein test for comparing latent variable models](https://academic.oup.com/jrsssb/article/85/3/986/7153413)
+- [Bayes meets Bernstein at the Meta Level: an Analysis of Fast Rates in Meta-Learning with PAC-Bayes](https://www.jmlr.org/papers/volume26/23-025/23-025.pdf)
+
+
+
+## Journal-to-Conference Track information
+
 We are excited to announce the launch of a pilot trial for the
 Journal-to-Conference track at AISTATS 2025.
 
