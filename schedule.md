@@ -15,7 +15,7 @@ Please check the [virtual conference site](https://virtual.aistats.org/virtual/2
 
 ## Poster Assignments
 
-All the poster schedules can be found on the [virtual conference site](https://virtual.aistats.org/virtual/2025/calendar). For your convenience, here are the links to each poster session:
+You can find all poster schedules on the [virtual conference site](https://virtual.aistats.org/virtual/2025/calendar). For your convenience, here are direct links to each poster session:
 
 - [Poster Session 1](https://virtual.aistats.org/virtual/2025/session/8798)
 - [Poster Session 2](https://virtual.aistats.org/virtual/2025/session/8799)
