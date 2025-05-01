@@ -14,17 +14,18 @@ Unwind after your conference on Phuket Island with its diverse range of social a
 
 During the conference, we highly recommend these two activities:
 
-### Day 2: [Siam Niramit Phuket Show](https://www.siamniramitphuket.com/)
+### Day 2: [Phuket Old Town's Night Market](https://www.hotels.com/go/thailand/phuket-walking-street)
 
-- **Show time**: 20:30 – 21:50  
+- **Time**: Sundays from 4pm to 10pm
+- **Price**: Free
+- **Location**: Thalang Rd, Talad Yai, Muang, Phuket 83000, Thailand
+
+ 
+### Day 3: [Siam Niramit Phuket Show](https://www.siamniramitphuket.com/)
+
+- **Time**: 20:30 – 21:50  
 - **Price**: Starting from 1800 THB (+400 THB for dinner)  
-- **Transportation**: A transfer service from the conference venue to the show is available for 350 THB per person. Please arrange this directly with the company after booking your ticket.  
-
-### Day 3: [Phuket Old Town's Night Market](https://www.hotels.com/go/thailand/phuket-walking-street)
-
-- **Location**: Thalang Rd, Talad Yai, Muang, Phuket 83000, Thailand  
-- **Time**: Sundays from 4pm to 10pm  
-- **Price**: Free  
+- **Transportation**: A transfer service from the conference venue to the show is available for 350 THB per person. Please arrange this directly with the company after booking your ticket. 
 
 
 **Organization**: Social activities are self-organized by participants. If you'd like to coordinate an activity and need our help in advertising it, please complete this [form](https://docs.google.com/forms/d/e/1FAIpQLScTb0eFe76IFZfu5itLAlywknkUQi-QByt9ZaLv2yZGYlzhAA/viewform).
